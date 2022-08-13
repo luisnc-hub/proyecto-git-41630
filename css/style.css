@@ -1,0 +1,7 @@
+section{
+    height: 70vh;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
