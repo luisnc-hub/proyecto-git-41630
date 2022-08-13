@@ -1,7 +1,27 @@
+header{
+    background-color: blueviolet;
+    display: flex;
+    /* width: 100%; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+nav ul{
+    display: flex;
+    width: 40vw;
+    justify-content: space-around;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
 section{
     height: 70vh;
     background-color: pink;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
