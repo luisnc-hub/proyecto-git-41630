@@ -1,0 +1,8 @@
+# Esto quiere decir que todos los archivos dentro de la carpeta "node_modules" no tengan seguimiento
+node_modules/* 
+
+# Esto quiere decir que este archivo html no tendrá seguimiento alguno y se mostrará el archivo de color plomo
+# empanadas.html
+
+# Esto quiere decir que todo archivo que termine en ".css" no tendrá seguimiento
+# *.css
